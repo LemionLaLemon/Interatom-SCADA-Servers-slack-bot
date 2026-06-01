@@ -1,0 +1,36 @@
+{
+	"Intern": {
+		"minPoints": 0,
+		"color": "#ffffff"
+	},
+	"Non Licensed Operator": {
+		"minPoints": 50,
+		"color": "#f0e15d",
+		"assigned": true
+	},
+	"Reactor Operator": {
+		"minPoints": 500,
+		"color": "#37e649",
+		"assigned": true
+	},
+	"Senior Reactor Operator": {
+		"minPoints": 2000,
+		"color": "#1d8acf",
+		"assigned": true
+	},
+	"Shift Manager": {
+		"minPoints": 8000,
+		"color": "#ca1ad6",
+		"assigned": true
+	},
+	"Corporate": {
+		"minPoints": 0,
+		"color": "#d41542",
+		"assigned": true
+	},
+	"Operations Director": {
+		"minPoints": 0,
+		"color": "#d97d14",
+		"assigned": true
+	}
+}
